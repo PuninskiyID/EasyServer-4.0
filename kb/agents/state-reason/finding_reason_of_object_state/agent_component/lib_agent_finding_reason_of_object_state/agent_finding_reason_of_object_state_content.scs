@@ -1,3 +1,4 @@
+sc_text_of_agent_of_finding_reason_of_object_state =  [*
 ..last_pattern = [* 
 _x _<= nrel_object:: _a;;
 _a _<- last_entity;;
@@ -323,3 +324,4 @@ scp_program -> agent_finding_reason_of_object_state
 			*);;
 		*);;
 	*);;
+*];;

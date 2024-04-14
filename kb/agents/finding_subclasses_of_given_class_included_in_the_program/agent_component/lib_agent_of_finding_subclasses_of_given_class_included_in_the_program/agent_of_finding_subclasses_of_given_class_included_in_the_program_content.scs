@@ -1,3 +1,4 @@
+sc_text_of_agent_of_finding_subclasses_of_given_class_included_in_the_program_corresponding_to_the_specified_class_of_the_processes =  [*
 agent_of_finding_subclasses_of_given_class_included_in_the_program_corresponding_to_the_specified_class_of_the_processes
 => nrel_main_idtf:
 	[агентная scp-программа поиска подклассов заданного класса, входящих в программу, соответствующую указанному классу процессов] (* <- lang_ru;; *);
@@ -348,3 +349,5 @@ scp_program -> agent_of_finding_subclasses_of_given_class_included_in_the_progra
 
 
 
+
+*];;

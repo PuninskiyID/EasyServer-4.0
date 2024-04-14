@@ -1,3 +1,4 @@
+sc_text_of_proc_find_general_entities =  [*
 ..pattern1 = [*
 _x _<= _rel:: _y;;
 _rel _<- taxonomy_relation;;
@@ -76,3 +77,4 @@ scp_program -> proc_find_general_entities
 			*);;
 		*);;
 	*);;
+*];;

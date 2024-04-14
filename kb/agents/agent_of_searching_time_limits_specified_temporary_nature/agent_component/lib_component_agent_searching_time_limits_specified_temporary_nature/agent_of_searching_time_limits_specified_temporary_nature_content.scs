@@ -1,3 +1,4 @@
+sc_text_of_agent_of_searching_time_limits_specified_temporary_nature =  [*
 agent_of_searching_time_limits_specified_temporary_nature
 => nrel_main_idtf:
 	[агентная scp-программа поиска временных границ указанной временной сущности] (* <- lang_ru;; *);
@@ -636,3 +637,5 @@ scp_program -> agent_of_searching_time_limits_specified_temporary_nature
 
 
 
+
+*];;

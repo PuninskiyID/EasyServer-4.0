@@ -1,3 +1,4 @@
+lib_component_proc_of_searching_for_current_state_of_specified_object =  [*
 scp_program -> proc_of_searching_for_current_state_of_specified_object
 	(*
 	-> rrel_params: .proc_of_searching_for_current_state_of_specified_object_params 
@@ -95,3 +96,4 @@ scp_program -> proc_of_searching_for_current_state_of_specified_object
 			*);;
 		*);;
 	*);;
+*];;
